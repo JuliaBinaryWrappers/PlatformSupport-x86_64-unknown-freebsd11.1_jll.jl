@@ -1,0 +1,9 @@
+[["PlatformSupport-x86_64-unknown-freebsd11.1"]]
+arch = "x86_64"
+git-tree-sha1 = "fdf04f8da1354d13662b5697bbcb0166e7fb036d"
+libc = "musl"
+os = "linux"
+
+    [["PlatformSupport-x86_64-unknown-freebsd11.1".download]]
+    sha256 = "612969f238d7935fa96f0d59fa7e1aee5d1e29bcc43448a8f19bf1c90f91cda7"
+    url = "https://github.com/JuliaBinaryWrappers/PlatformSupport-x86_64-unknown-freebsd11.1_jll.jl/releases/download/PlatformSupport-x86_64-unknown-freebsd11.1-v2020.1.15+0/PlatformSupport-x86_64-unknown-freebsd11.1.v2020.1.15.x86_64-linux-musl.tar.gz"

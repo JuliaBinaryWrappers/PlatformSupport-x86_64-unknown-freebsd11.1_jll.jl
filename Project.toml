@@ -1,0 +1,10 @@
+name = "PlatformSupport-x86_64-unknown-freebsd11.1_jll"
+uuid = "2aed2f22-358e-509f-8625-949f5f020e5c"
+version = "2020.1.15+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
